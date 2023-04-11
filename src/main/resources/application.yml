@@ -6,6 +6,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/yzj
     username: root
+#    username: yzj
     password: root
   # session 失效时间
   session:
